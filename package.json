@@ -1,0 +1,33 @@
+{
+  "name": "@stdlib/math-base-ops-add",
+  "version": "0.0.0",
+  "description": "Compute the sum of two double-precision floating-point numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-ops-add.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "sum",
+    "add",
+    "addition",
+    "summation",
+    "number",
+    "double",
+    "double-precision"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
