@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@esm/index.mjs';
+import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@v0.2.0-esm/index.mjs';
 ```
 
 #### add( x, y )
@@ -103,7 +103,7 @@ v = add( NaN, NaN );
 <script type="module">
 
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@esm/index.mjs';
+import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@v0.2.0-esm/index.mjs';
 
 var x;
 var y;
